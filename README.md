@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdulBasitKagzi
+- 👋 Hi, I’m AbdulBasitKagzi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on projects
